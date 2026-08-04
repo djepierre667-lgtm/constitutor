@@ -1,0 +1,17 @@
+{
+  "name": "africa-law-platform",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["civic education", "africa", "constitution", "legal tech"],
+  "author": "",
+  "license": "MIT",
+  "description": "ConstitApp - Application d'éducation civique pour les citoyens africains",
+  "devDependencies": {
+    "vite": "^8.2.0"
+  }
+}
